@@ -1,0 +1,11 @@
+.block {
+    box-sizing: border-box; 
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px;
+    margin-bottom: 30px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+    background-color: rgb(43, 226, 98);
+}
